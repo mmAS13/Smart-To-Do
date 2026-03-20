@@ -69,7 +69,8 @@ index.html
 style.css
 script.js
 
-
+# View Live
+https://todoprojectmariam.netlify.app/
 
 ## 📖 Learning Purpose
 
